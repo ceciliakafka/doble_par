@@ -36,3 +36,12 @@ body{
 nav:hover li:hover a:hover{
     color: rgb(144 208 93);
 }
+
+.quienessomos{
+    background-image: url("./img/remo_mujeres.jpg");
+    background-color: ;
+    height: 20rem;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
