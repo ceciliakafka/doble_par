@@ -6,6 +6,8 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+
+/*-----------------HEADER-------------------------------*/
 .header{
     background-color: black;
 }
@@ -37,6 +39,7 @@ nav:hover li:hover a:hover{
     color: rgb(144 208 93);
 }
 
+/*-----------------QUIENES SOMOS-------------------------------*/
 .quienessomos{
     background-image: url("./img/remo_mujeres.jpg");
     background-color: ;
@@ -44,4 +47,20 @@ nav:hover li:hover a:hover{
     background-repeat:no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+.titulodoblepar{
+    font-size: 5rem;
+    color: white;
+
+}
+
+.textoagenciacolaborativa{
+    font-weight: 500;
+    color: white;
+}
+
+.textoquehacemos{
+    font-weight: 300;
+    color: white;
 }
