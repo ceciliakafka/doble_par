@@ -42,7 +42,7 @@ nav:hover li:hover a:hover{
 /*-----------------QUIENES SOMOS-------------------------------*/
 .quienessomos{
     background-image: url("./img/remo_mujeres.jpg");
-    background-color: ;
+    background-color: rgb(144 208 93);
     height: 20rem;
     background-repeat:no-repeat;
     background-size: cover;
@@ -50,17 +50,35 @@ nav:hover li:hover a:hover{
 }
 
 .titulodoblepar{
-    font-size: 5rem;
+    font-size: 4.5rem;
     color: white;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+}
 
+.titulodoblepar span{
+    background-color: rgb(144 208 93);
 }
 
 .textoagenciacolaborativa{
     font-weight: 500;
     color: white;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
 }
 
+.textoagenciacolaborativa span{
+    background-color: rgb(144 208 93);
+}
 .textoquehacemos{
-    font-weight: 300;
+    font-weight: 400;
     color: white;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.textoquehacemos span{
+    background-color: rgb(154, 22, 97)
 }
