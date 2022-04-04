@@ -16,7 +16,6 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    text-transform: uppercase;
 }
 
 .menulista{
@@ -93,4 +92,30 @@ nav:hover li:hover a:hover{
 
 .conocenos span{
     background-color: black
+}
+
+/*---------------FOOTER----------------------*/
+
+.footer{
+    background-color: black;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+}
+
+.footer{
+    display: flex;
+}
+
+.titulofooter{
+    font-size: 0.7rem;
+    color: white;
+    font-weight: 600;
+}
+
+.menulinkfooter{
+    text-decoration: none;
+    font-size: 0.7rem;
+    color: white;
+    font-weight: 400;
 }
