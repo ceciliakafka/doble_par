@@ -58,7 +58,7 @@ nav:hover li:hover a:hover{
 }
 
 .titulodoblepar span{
-    background-color: rgb(144 208 93);
+    background-color: black;
 }
 
 .textoagenciacolaborativa{
@@ -69,7 +69,7 @@ nav:hover li:hover a:hover{
 }
 
 .textoagenciacolaborativa span{
-    background-color: rgb(144 208 93);
+    background-color: black;
 }
 .textoquehacemos{
     font-weight: 400;
@@ -81,15 +81,16 @@ nav:hover li:hover a:hover{
 }
 
 .textoquehacemos span{
-    background-color: rgb(132, 0, 80)
+    background-color: black
 }
 
 .conocenos{
     font-weight: 400;
+    color: white;
     padding-bottom: 1rem;
     padding-left: 1rem;
 }
 
 .conocenos span{
-    background-color: rgba(255, 255, 255, 0.681)
+    background-color: black
 }
